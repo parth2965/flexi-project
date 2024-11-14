@@ -6,10 +6,6 @@ A web-based grocery delivery application that allows users to order groceries on
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [API Documentation](#api-documentation)
-- [Contributing](#contributing)
-- [Testing](#testing)
-- [License](#license)
 - [Acknowledgments](#acknowledgments)
 
 ## Features
