@@ -59,4 +59,6 @@ https://www.figma.com/design/rc3YiPQcoMsZiRsifd41gD/groceria?node-id=0-1&t=LdsZY
 Usage
 User Registration: Register a new user to create an account.
 Login: Log in to access and manage your cart and place orders.
+![Homepage Screenshot](Screenshot 2024-11-14 at 9.41.13 PM.png)
+
 
